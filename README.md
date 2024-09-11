@@ -1,4 +1,14 @@
-# my first repo
- project do it in class
-
-This is my first my GitHub project.It is helping me to remember HTML and CSS and how these languages work.
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Maca's first Repo</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <h1>Maca's First Repo</h1>
+    <p> Welcome to my first repo, hope you enjoy this cool website!</p>
+  </body>
+</html>
