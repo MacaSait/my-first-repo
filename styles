@@ -1,4 +1,8 @@
 body {
-    background-color: blue
-    color:beige
+    background-color: blue;
+    color: beige;
+}
+
+h1 {
+    background-color: antiquewhite;
 }
