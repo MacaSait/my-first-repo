@@ -10,5 +10,11 @@
   <body>
     <h1>Maca's First Repo</h1>
     <p> Welcome to my first repo, hope you enjoy this cool website!</p>
+    <h2>Today I learn</h2>
+    <ul>
+    <li>I learn about gibt and git desktop</li>
+    <li>How to commit a change</li>
+    </ul>
+
   </body>
 </html>
